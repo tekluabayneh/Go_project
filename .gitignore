@@ -19,8 +19,6 @@ Go_project
 /go.sum
 /go.mod
 
-# Vendor directory (if you commit dependencies, you can remove this)
-/vendor/
 
 # IDE/editor files
 .idea/
