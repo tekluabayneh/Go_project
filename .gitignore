@@ -15,10 +15,6 @@ Go_project
 # Output of the Go coverage tool
 *.coverprofile
 
-# Go modules
-/go.sum
-/go.mod
-
 
 # IDE/editor files
 .idea/
