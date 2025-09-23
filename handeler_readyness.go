@@ -6,10 +6,8 @@ import (
 	"net/http"
 )
 
-type User struct {
-	Name  string `json:"name"`
-	Email string `json:"email"`
-}
+ 
+
 
 func handlerReadyness(w http.ResponseWriter, r *http.Request) {
 	var user User
